@@ -1,0 +1,54 @@
+*{
+    font-size: 25px;
+}
+
+.calc{
+    width: 400px;
+    height: 575px;
+    background: rgb(77, 176, 151);
+    margin-left: 500px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.screen{
+    width: 360px;
+    margin-left: 18px;
+    margin-top: 20px;
+    height: 85px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border: none;
+    pointer-events: none;
+    background-color: rgb(96, 205, 122);
+}
+.btn{
+    width: 80px;
+    height:75px;
+    margin-left: 13px;
+    margin-top: 15px;
+    border-radius: 5px;
+    -webkit-border-radius:;
+    -moz-border-radius:;
+    -ms-border-radius:;
+    -o-border-radius:;
+    border: none;
+background-color: rgb(18, 149, 172);}
+.btn1{
+    width: 140px;
+    height: 75px;
+    margin-top: 10px;
+    margin-left: 38px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border: none;
+    background-color: rgba(240, 242, 243, 0.538);
+}
